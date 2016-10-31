@@ -1,4 +1,4 @@
-[Table of Contentes](/README.md)
+[Table of Contents](/README.md)
 
 # Welcome to TIY Austin UI Design Fall 2016!
 
